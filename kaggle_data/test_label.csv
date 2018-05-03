@@ -1,0 +1,1351 @@
+validityDate_city,observedMaxTemp
+01-01-18_Afula,13
+01-01-18_Ashdod,18
+01-01-18_Beer Sheva,16
+01-01-18_Bet Shean,17
+01-01-18_Elat,20
+01-01-18_En Gedi,20
+01-01-18_Haifa,13
+01-01-18_Jerusalem,9
+01-01-18_Lod,14
+01-01-18_Mizpe Ramon,10
+01-01-18_Nazareth,10
+01-01-18_Qazrin,9
+01-01-18_Tel Aviv,14
+01-01-18_Tiberias,14
+01-01-18_Zefat,7
+02-01-18_Afula,18
+02-01-18_Ashdod,19
+02-01-18_Beer Sheva,17
+02-01-18_Bet Shean,17
+02-01-18_Elat,22
+02-01-18_En Gedi,22
+02-01-18_Haifa,17
+02-01-18_Jerusalem,10
+02-01-18_Lod,17
+02-01-18_Mizpe Ramon,15
+02-01-18_Nazareth,16
+02-01-18_Qazrin,16
+02-01-18_Tel Aviv,18
+02-01-18_Tiberias,22
+02-01-18_Zefat,12
+03-01-18_Afula,21
+03-01-18_Ashdod,18
+03-01-18_Beer Sheva,18
+03-01-18_Bet Shean,21
+03-01-18_Elat,24
+03-01-18_En Gedi,23
+03-01-18_Haifa,17
+03-01-18_Jerusalem,16
+03-01-18_Lod,19
+03-01-18_Mizpe Ramon,17
+03-01-18_Nazareth,16
+03-01-18_Qazrin,17
+03-01-18_Tel Aviv,19
+03-01-18_Tiberias,20
+03-01-18_Zefat,13
+04-01-18_Afula,18
+04-01-18_Ashdod,18
+04-01-18_Beer Sheva,16
+04-01-18_Bet Shean,19
+04-01-18_Elat,22
+04-01-18_En Gedi,23
+04-01-18_Haifa,14
+04-01-18_Jerusalem,10
+04-01-18_Lod,17
+04-01-18_Mizpe Ramon,12
+04-01-18_Nazareth,12
+04-01-18_Qazrin,15
+04-01-18_Tel Aviv,17
+04-01-18_Tiberias,17
+04-01-18_Zefat,7
+05-01-18_Afula,15
+05-01-18_Ashdod,18
+05-01-18_Beer Sheva,15
+05-01-18_Bet Shean,16
+05-01-18_Elat,22
+05-01-18_En Gedi,21
+05-01-18_Haifa,14
+05-01-18_Jerusalem,9
+05-01-18_Lod,17
+05-01-18_Mizpe Ramon,12
+05-01-18_Nazareth,11
+05-01-18_Qazrin,11
+05-01-18_Tel Aviv,16
+05-01-18_Tiberias,15
+05-01-18_Zefat,7
+06-01-18_Afula,17
+06-01-18_Ashdod,19
+06-01-18_Beer Sheva,13
+06-01-18_Bet Shean,18
+06-01-18_Elat,20
+06-01-18_En Gedi,21
+06-01-18_Haifa,17
+06-01-18_Jerusalem,12
+06-01-18_Lod,19
+06-01-18_Mizpe Ramon,11
+06-01-18_Nazareth,15
+06-01-18_Qazrin,15
+06-01-18_Tel Aviv,18
+06-01-18_Tiberias,18
+06-01-18_Zefat,10
+07-01-18_Afula,20
+07-01-18_Ashdod,18
+07-01-18_Beer Sheva,19
+07-01-18_Bet Shean,20
+07-01-18_Elat,23
+07-01-18_En Gedi,22
+07-01-18_Haifa,17
+07-01-18_Jerusalem,14
+07-01-18_Lod,20
+07-01-18_Mizpe Ramon,13
+07-01-18_Nazareth,17
+07-01-18_Qazrin,16
+07-01-18_Tel Aviv,18
+07-01-18_Tiberias,19
+07-01-18_Zefat,11
+08-01-18_Afula,21
+08-01-18_Ashdod,19
+08-01-18_Beer Sheva,20
+08-01-18_Bet Shean,20
+08-01-18_Elat,23
+08-01-18_En Gedi,23
+08-01-18_Haifa,18
+08-01-18_Jerusalem,15
+08-01-18_Lod,21
+08-01-18_Mizpe Ramon,14
+08-01-18_Nazareth,17
+08-01-18_Qazrin,17
+08-01-18_Tel Aviv,20
+08-01-18_Tiberias,20
+08-01-18_Zefat,15
+09-01-18_Afula,20
+09-01-18_Ashdod,19
+09-01-18_Beer Sheva,19
+09-01-18_Bet Shean,20
+09-01-18_Elat,22
+09-01-18_En Gedi,21
+09-01-18_Haifa,17
+09-01-18_Jerusalem,16
+09-01-18_Lod,19
+09-01-18_Mizpe Ramon,16
+09-01-18_Nazareth,16
+09-01-18_Qazrin,16
+09-01-18_Tel Aviv,18
+09-01-18_Tiberias,18
+09-01-18_Zefat,13
+10-01-18_Afula,19
+10-01-18_Ashdod,18
+10-01-18_Beer Sheva,19
+10-01-18_Bet Shean,20
+10-01-18_Elat,22
+10-01-18_En Gedi,21
+10-01-18_Haifa,17
+10-01-18_Jerusalem,14
+10-01-18_Lod,20
+10-01-18_Mizpe Ramon,14
+10-01-18_Nazareth,15
+10-01-18_Qazrin,16
+10-01-18_Tel Aviv,19
+10-01-18_Tiberias,19
+10-01-18_Zefat,12
+11-01-18_Afula,19
+11-01-18_Ashdod,22
+11-01-18_Beer Sheva,26
+11-01-18_Bet Shean,21
+11-01-18_Elat,26
+11-01-18_En Gedi,21
+11-01-18_Haifa,19
+11-01-18_Jerusalem,20
+11-01-18_Lod,25
+11-01-18_Mizpe Ramon,24
+11-01-18_Nazareth,18
+11-01-18_Qazrin,21
+11-01-18_Tel Aviv,22
+11-01-18_Tiberias,23
+11-01-18_Zefat,16
+12-01-18_Afula,21
+12-01-18_Ashdod,19
+12-01-18_Beer Sheva,20
+12-01-18_Bet Shean,20
+12-01-18_Elat,26
+12-01-18_En Gedi,24
+12-01-18_Haifa,18
+12-01-18_Jerusalem,16
+12-01-18_Lod,20
+12-01-18_Mizpe Ramon,19
+12-01-18_Nazareth,19
+12-01-18_Qazrin,17
+12-01-18_Tel Aviv,19
+12-01-18_Tiberias,20
+12-01-18_Zefat,15
+13-01-18_Afula,21
+13-01-18_Ashdod,19
+13-01-18_Beer Sheva,22
+13-01-18_Bet Shean,22
+13-01-18_Elat,25
+13-01-18_En Gedi,23
+13-01-18_Haifa,19
+13-01-18_Jerusalem,17
+13-01-18_Lod,22
+13-01-18_Mizpe Ramon,19
+13-01-18_Nazareth,18
+13-01-18_Qazrin,20
+13-01-18_Tel Aviv,21
+13-01-18_Tiberias,24
+13-01-18_Zefat,14
+14-01-18_Afula,18
+14-01-18_Ashdod,18
+14-01-18_Beer Sheva,18
+14-01-18_Bet Shean,20
+14-01-18_Elat,23
+14-01-18_En Gedi,25
+14-01-18_Haifa,16
+14-01-18_Jerusalem,12
+14-01-18_Lod,18
+14-01-18_Mizpe Ramon,14
+14-01-18_Nazareth,15
+14-01-18_Qazrin,13
+14-01-18_Tel Aviv,19
+14-01-18_Tiberias,20
+14-01-18_Zefat,10
+15-01-18_Afula,16
+15-01-18_Ashdod,19
+15-01-18_Beer Sheva,18
+15-01-18_Bet Shean,20
+15-01-18_Elat,22
+15-01-18_En Gedi,23
+15-01-18_Haifa,17
+15-01-18_Jerusalem,13
+15-01-18_Lod,19
+15-01-18_Mizpe Ramon,15
+15-01-18_Nazareth,16
+15-01-18_Qazrin,16
+15-01-18_Tel Aviv,18
+15-01-18_Tiberias,19
+15-01-18_Zefat,11
+16-01-18_Afula,19
+16-01-18_Ashdod,18
+16-01-18_Beer Sheva,18
+16-01-18_Bet Shean,19
+16-01-18_Elat,23
+16-01-18_En Gedi,23
+16-01-18_Haifa,16
+16-01-18_Jerusalem,14
+16-01-18_Lod,19
+16-01-18_Mizpe Ramon,15
+16-01-18_Nazareth,16
+16-01-18_Qazrin,16
+16-01-18_Tel Aviv,18
+16-01-18_Tiberias,20
+16-01-18_Zefat,12
+17-01-18_Afula,15
+17-01-18_Ashdod,17
+17-01-18_Beer Sheva,16
+17-01-18_Bet Shean,17
+17-01-18_Elat,21
+17-01-18_En Gedi,22
+17-01-18_Haifa,16
+17-01-18_Jerusalem,10
+17-01-18_Lod,16
+17-01-18_Mizpe Ramon,13
+17-01-18_Nazareth,13
+17-01-18_Qazrin,11
+17-01-18_Tel Aviv,17
+17-01-18_Tiberias,15
+17-01-18_Zefat,8
+18-01-18_Afula,18
+18-01-18_Ashdod,19
+18-01-18_Beer Sheva,19
+18-01-18_Bet Shean,20
+18-01-18_Elat,23
+18-01-18_En Gedi,25
+18-01-18_Haifa,17
+18-01-18_Jerusalem,13
+18-01-18_Lod,19
+18-01-18_Mizpe Ramon,14
+18-01-18_Nazareth,15
+18-01-18_Qazrin,14
+18-01-18_Tel Aviv,18
+18-01-18_Tiberias,20
+18-01-18_Zefat,8
+19-01-18_Afula,16
+19-01-18_Ashdod,16
+19-01-18_Beer Sheva,14
+19-01-18_Bet Shean,17
+19-01-18_Elat,20
+19-01-18_En Gedi,21
+19-01-18_Haifa,14
+19-01-18_Jerusalem,9
+19-01-18_Lod,16
+19-01-18_Mizpe Ramon,10
+19-01-18_Nazareth,12
+19-01-18_Qazrin,13
+19-01-18_Tel Aviv,16
+19-01-18_Tiberias,18
+19-01-18_Zefat,7
+20-01-18_Afula,18
+20-01-18_Ashdod,17
+20-01-18_Beer Sheva,17
+20-01-18_Bet Shean,18
+20-01-18_Elat,21
+20-01-18_En Gedi,22
+20-01-18_Haifa,16
+20-01-18_Jerusalem,12
+20-01-18_Lod,17
+20-01-18_Mizpe Ramon,13
+20-01-18_Nazareth,15
+20-01-18_Qazrin,15
+20-01-18_Tel Aviv,18
+20-01-18_Tiberias,19
+20-01-18_Zefat,11
+21-01-18_Afula,19
+21-01-18_Ashdod,17
+21-01-18_Beer Sheva,20
+21-01-18_Bet Shean,20
+21-01-18_Elat,23
+21-01-18_En Gedi,20
+21-01-18_Haifa,17
+21-01-18_Jerusalem,15
+21-01-18_Lod,22
+21-01-18_Mizpe Ramon,16
+21-01-18_Nazareth,16
+21-01-18_Qazrin,17
+21-01-18_Tel Aviv,20
+21-01-18_Tiberias,21
+21-01-18_Zefat,11
+22-01-18_Afula,20
+22-01-18_Ashdod,18
+22-01-18_Beer Sheva,20
+22-01-18_Bet Shean,21
+22-01-18_Elat,24
+22-01-18_En Gedi,24
+22-01-18_Haifa,18
+22-01-18_Jerusalem,15
+22-01-18_Lod,20
+22-01-18_Mizpe Ramon,17
+22-01-18_Nazareth,17
+22-01-18_Qazrin,17
+22-01-18_Tel Aviv,18
+22-01-18_Tiberias,21
+22-01-18_Zefat,14
+23-01-18_Afula,18
+23-01-18_Ashdod,17
+23-01-18_Beer Sheva,17
+23-01-18_Bet Shean,19
+23-01-18_Elat,24
+23-01-18_En Gedi,24
+23-01-18_Haifa,16
+23-01-18_Jerusalem,12
+23-01-18_Lod,17
+23-01-18_Mizpe Ramon,14
+23-01-18_Nazareth,15
+23-01-18_Qazrin,12
+23-01-18_Tel Aviv,17
+23-01-18_Tiberias,18
+23-01-18_Zefat,9
+24-01-18_Afula,14
+24-01-18_Ashdod,17
+24-01-18_Beer Sheva,18
+24-01-18_Bet Shean,15
+24-01-18_Elat,24
+24-01-18_En Gedi,23
+24-01-18_Haifa,13
+24-01-18_Jerusalem,13
+24-01-18_Lod,16
+24-01-18_Mizpe Ramon,15
+24-01-18_Nazareth,11
+24-01-18_Qazrin,11
+24-01-18_Tel Aviv,15
+24-01-18_Tiberias,15
+24-01-18_Zefat,8
+25-01-18_Afula,12
+25-01-18_Ashdod,16
+25-01-18_Beer Sheva,15
+25-01-18_Bet Shean,14
+25-01-18_Elat,21
+25-01-18_En Gedi,21
+25-01-18_Haifa,12
+25-01-18_Jerusalem,10
+25-01-18_Lod,15
+25-01-18_Mizpe Ramon,13
+25-01-18_Nazareth,9
+25-01-18_Qazrin,11
+25-01-18_Tel Aviv,15
+25-01-18_Tiberias,14
+25-01-18_Zefat,6
+26-01-18_Afula,8
+26-01-18_Ashdod,13
+26-01-18_Beer Sheva,12
+26-01-18_Bet Shean,12
+26-01-18_Elat,19
+26-01-18_En Gedi,19
+26-01-18_Haifa,8
+26-01-18_Jerusalem,7
+26-01-18_Lod,12
+26-01-18_Mizpe Ramon,8
+26-01-18_Nazareth,5
+26-01-18_Qazrin,6
+26-01-18_Tel Aviv,12
+26-01-18_Tiberias,10
+26-01-18_Zefat,2
+27-01-18_Afula,15
+27-01-18_Ashdod,14
+27-01-18_Beer Sheva,12
+27-01-18_Bet Shean,15
+27-01-18_Elat,19
+27-01-18_En Gedi,18
+27-01-18_Haifa,15
+27-01-18_Jerusalem,9
+27-01-18_Lod,13
+27-01-18_Mizpe Ramon,11
+27-01-18_Nazareth,12
+27-01-18_Qazrin,10
+27-01-18_Tel Aviv,14
+27-01-18_Tiberias,15
+27-01-18_Zefat,6
+28-01-18_Afula,17
+28-01-18_Ashdod,16
+28-01-18_Beer Sheva,16
+28-01-18_Bet Shean,17
+28-01-18_Elat,20
+28-01-18_En Gedi,20
+28-01-18_Haifa,15
+28-01-18_Jerusalem,12
+28-01-18_Lod,17
+28-01-18_Mizpe Ramon,12
+28-01-18_Nazareth,14
+28-01-18_Qazrin,12
+28-01-18_Tel Aviv,16
+28-01-18_Tiberias,16
+28-01-18_Zefat,9
+29-01-18_Afula,17
+29-01-18_Ashdod,17
+29-01-18_Beer Sheva,15
+29-01-18_Bet Shean,17
+29-01-18_Elat,21
+29-01-18_En Gedi,18
+29-01-18_Haifa,15
+29-01-18_Jerusalem,11
+29-01-18_Lod,18
+29-01-18_Mizpe Ramon,12
+29-01-18_Nazareth,15
+29-01-18_Qazrin,12
+29-01-18_Tel Aviv,17
+29-01-18_Tiberias,15
+29-01-18_Zefat,10
+30-01-18_Afula,19
+30-01-18_Ashdod,18
+30-01-18_Beer Sheva,18
+30-01-18_Bet Shean,18
+30-01-18_Elat,22
+30-01-18_En Gedi,20
+30-01-18_Haifa,15
+30-01-18_Jerusalem,14
+30-01-18_Lod,18
+30-01-18_Mizpe Ramon,13
+30-01-18_Nazareth,15
+30-01-18_Qazrin,15
+30-01-18_Tel Aviv,18
+30-01-18_Tiberias,18
+30-01-18_Zefat,11
+31-01-18_Afula,19
+31-01-18_Ashdod,17
+31-01-18_Beer Sheva,18
+31-01-18_Bet Shean,20
+31-01-18_Elat,21
+31-01-18_En Gedi,21
+31-01-18_Haifa,16
+31-01-18_Jerusalem,14
+31-01-18_Lod,19
+31-01-18_Mizpe Ramon,14
+31-01-18_Nazareth,16
+31-01-18_Qazrin,16
+31-01-18_Tel Aviv,18
+31-01-18_Tiberias,18
+31-01-18_Zefat,10
+01-02-18_Afula,21
+01-02-18_Ashdod,18
+01-02-18_Beer Sheva,19
+01-02-18_Bet Shean,22
+01-02-18_Elat,22
+01-02-18_En Gedi,22
+01-02-18_Haifa,18
+01-02-18_Jerusalem,16
+01-02-18_Lod,20
+01-02-18_Mizpe Ramon,16
+01-02-18_Nazareth,18
+01-02-18_Qazrin,19
+01-02-18_Tel Aviv,20
+01-02-18_Tiberias,21
+01-02-18_Zefat,14
+02-02-18_Afula,21
+02-02-18_Ashdod,18
+02-02-18_Beer Sheva,22
+02-02-18_Bet Shean,24
+02-02-18_Elat,25
+02-02-18_En Gedi,24
+02-02-18_Haifa,19
+02-02-18_Jerusalem,20
+02-02-18_Lod,22
+02-02-18_Mizpe Ramon,20
+02-02-18_Nazareth,20
+02-02-18_Qazrin,21
+02-02-18_Tel Aviv,20
+02-02-18_Tiberias,21
+02-02-18_Zefat,16
+03-02-18_Afula,24
+03-02-18_Ashdod,18
+03-02-18_Beer Sheva,24
+03-02-18_Bet Shean,22
+03-02-18_Elat,29
+03-02-18_En Gedi,22
+03-02-18_Haifa,21
+03-02-18_Jerusalem,21
+03-02-18_Lod,22
+03-02-18_Mizpe Ramon,22
+03-02-18_Nazareth,21
+03-02-18_Qazrin,19
+03-02-18_Tel Aviv,22
+03-02-18_Tiberias,22
+03-02-18_Zefat,19
+04-02-18_Afula,21
+04-02-18_Ashdod,20
+04-02-18_Beer Sheva,27
+04-02-18_Bet Shean,23
+04-02-18_Elat,29
+04-02-18_En Gedi,22
+04-02-18_Haifa,23
+04-02-18_Jerusalem,23
+04-02-18_Lod,28
+04-02-18_Mizpe Ramon,24
+04-02-18_Nazareth,22
+04-02-18_Qazrin,21
+04-02-18_Tel Aviv,24
+04-02-18_Tiberias,21
+04-02-18_Zefat,21
+05-02-18_Afula,19
+05-02-18_Ashdod,21
+05-02-18_Beer Sheva,26
+05-02-18_Bet Shean,20
+05-02-18_Elat,31
+05-02-18_En Gedi,23
+05-02-18_Haifa,21
+05-02-18_Jerusalem,23
+05-02-18_Lod,26
+05-02-18_Mizpe Ramon,25
+05-02-18_Nazareth,18
+05-02-18_Qazrin,20
+05-02-18_Tel Aviv,24
+05-02-18_Tiberias,19
+05-02-18_Zefat,19
+06-02-18_Afula,21
+06-02-18_Ashdod,20
+06-02-18_Beer Sheva,24
+06-02-18_Bet Shean,22
+06-02-18_Elat,30
+06-02-18_En Gedi,23
+06-02-18_Haifa,23
+06-02-18_Jerusalem,22
+06-02-18_Lod,24
+06-02-18_Mizpe Ramon,23
+06-02-18_Nazareth,22
+06-02-18_Qazrin,21
+06-02-18_Tel Aviv,23
+06-02-18_Tiberias,22
+06-02-18_Zefat,21
+07-02-18_Afula,26
+07-02-18_Ashdod,19
+07-02-18_Beer Sheva,28
+07-02-18_Bet Shean,25
+07-02-18_Elat,29
+07-02-18_En Gedi,25
+07-02-18_Haifa,21
+07-02-18_Jerusalem,24
+07-02-18_Lod,25
+07-02-18_Mizpe Ramon,24
+07-02-18_Nazareth,23
+07-02-18_Qazrin,23
+07-02-18_Tel Aviv,23
+07-02-18_Tiberias,24
+07-02-18_Zefat,20
+08-02-18_Afula,22
+08-02-18_Ashdod,20
+08-02-18_Beer Sheva,26
+08-02-18_Bet Shean,23
+08-02-18_Elat,29
+08-02-18_En Gedi,24
+08-02-18_Haifa,23
+08-02-18_Jerusalem,23
+08-02-18_Lod,23
+08-02-18_Mizpe Ramon,25
+08-02-18_Nazareth,21
+08-02-18_Qazrin,23
+08-02-18_Tel Aviv,24
+08-02-18_Tiberias,23
+08-02-18_Zefat,18
+09-02-18_Afula,24
+09-02-18_Ashdod,20
+09-02-18_Beer Sheva,26
+09-02-18_Bet Shean,25
+09-02-18_Elat,30
+09-02-18_En Gedi,24
+09-02-18_Haifa,25
+09-02-18_Jerusalem,24
+09-02-18_Lod,25
+09-02-18_Mizpe Ramon,28
+09-02-18_Nazareth,24
+09-02-18_Qazrin,21
+09-02-18_Tel Aviv,24
+09-02-18_Tiberias,23
+09-02-18_Zefat,21
+10-02-18_Afula,22
+10-02-18_Ashdod,20
+10-02-18_Beer Sheva,29
+10-02-18_Bet Shean,23
+10-02-18_Elat,30
+10-02-18_En Gedi,24
+10-02-18_Haifa,24
+10-02-18_Jerusalem,25
+10-02-18_Lod,25
+10-02-18_Mizpe Ramon,28
+10-02-18_Nazareth,24
+10-02-18_Qazrin,26
+10-02-18_Tel Aviv,23
+10-02-18_Tiberias,23
+10-02-18_Zefat,21
+11-02-18_Afula,23
+11-02-18_Ashdod,22
+11-02-18_Beer Sheva,24
+11-02-18_Bet Shean,24
+11-02-18_Elat,30
+11-02-18_En Gedi,25
+11-02-18_Haifa,24
+11-02-18_Jerusalem,24
+11-02-18_Lod,23
+11-02-18_Mizpe Ramon,27
+11-02-18_Nazareth,23
+11-02-18_Qazrin,21
+11-02-18_Tel Aviv,23
+11-02-18_Tiberias,24
+11-02-18_Zefat,21
+12-02-18_Afula,21
+12-02-18_Ashdod,19
+12-02-18_Beer Sheva,21
+12-02-18_Bet Shean,23
+12-02-18_Elat,25
+12-02-18_En Gedi,25
+12-02-18_Haifa,17
+12-02-18_Jerusalem,18
+12-02-18_Lod,21
+12-02-18_Mizpe Ramon,21
+12-02-18_Nazareth,16
+12-02-18_Qazrin,16
+12-02-18_Tel Aviv,20
+12-02-18_Tiberias,20
+12-02-18_Zefat,12
+13-02-18_Afula,17
+13-02-18_Ashdod,17
+13-02-18_Beer Sheva,16
+13-02-18_Bet Shean,19
+13-02-18_Elat,23
+13-02-18_En Gedi,23
+13-02-18_Haifa,15
+13-02-18_Jerusalem,11
+13-02-18_Lod,18
+13-02-18_Mizpe Ramon,13
+13-02-18_Nazareth,14
+13-02-18_Qazrin,13
+13-02-18_Tel Aviv,17
+13-02-18_Tiberias,20
+13-02-18_Zefat,9
+14-02-18_Afula,19
+14-02-18_Ashdod,18
+14-02-18_Beer Sheva,20
+14-02-18_Bet Shean,20
+14-02-18_Elat,25
+14-02-18_En Gedi,24
+14-02-18_Haifa,18
+14-02-18_Jerusalem,14
+14-02-18_Lod,20
+14-02-18_Mizpe Ramon,14
+14-02-18_Nazareth,16
+14-02-18_Qazrin,16
+14-02-18_Tel Aviv,19
+14-02-18_Tiberias,20
+14-02-18_Zefat,10
+15-02-18_Afula,20
+15-02-18_Ashdod,18
+15-02-18_Beer Sheva,20
+15-02-18_Bet Shean,22
+15-02-18_Elat,24
+15-02-18_En Gedi,26
+15-02-18_Haifa,19
+15-02-18_Jerusalem,14
+15-02-18_Lod,22
+15-02-18_Mizpe Ramon,18
+15-02-18_Nazareth,18
+15-02-18_Qazrin,18
+15-02-18_Tel Aviv,21
+15-02-18_Tiberias,23
+15-02-18_Zefat,12
+16-02-18_Afula,21
+16-02-18_Ashdod,19
+16-02-18_Beer Sheva,21
+16-02-18_Bet Shean,23
+16-02-18_Elat,25
+16-02-18_En Gedi,24
+16-02-18_Haifa,20
+16-02-18_Jerusalem,18
+16-02-18_Lod,21
+16-02-18_Mizpe Ramon,18
+16-02-18_Nazareth,19
+16-02-18_Qazrin,19
+16-02-18_Tel Aviv,20
+16-02-18_Tiberias,24
+16-02-18_Zefat,14
+17-02-18_Afula,14
+17-02-18_Ashdod,16
+17-02-18_Beer Sheva,17
+17-02-18_Bet Shean,15
+17-02-18_Elat,23
+17-02-18_En Gedi,22
+17-02-18_Haifa,12
+17-02-18_Jerusalem,11
+17-02-18_Lod,16
+17-02-18_Mizpe Ramon,13
+17-02-18_Nazareth,10
+17-02-18_Qazrin,10
+17-02-18_Tel Aviv,15
+17-02-18_Tiberias,14
+17-02-18_Zefat,7
+18-02-18_Afula,19
+18-02-18_Ashdod,18
+18-02-18_Beer Sheva,17
+18-02-18_Bet Shean,21
+18-02-18_Elat,22
+18-02-18_En Gedi,24
+18-02-18_Haifa,17
+18-02-18_Jerusalem,11
+18-02-18_Lod,19
+18-02-18_Mizpe Ramon,15
+18-02-18_Nazareth,16
+18-02-18_Qazrin,15
+18-02-18_Tel Aviv,18
+18-02-18_Tiberias,21
+18-02-18_Zefat,11
+19-02-18_Afula,20
+19-02-18_Ashdod,18
+19-02-18_Beer Sheva,19
+19-02-18_Bet Shean,21
+19-02-18_Elat,25
+19-02-18_En Gedi,23
+19-02-18_Haifa,17
+19-02-18_Jerusalem,16
+19-02-18_Lod,19
+19-02-18_Mizpe Ramon,17
+19-02-18_Nazareth,16
+19-02-18_Qazrin,17
+19-02-18_Tel Aviv,18
+19-02-18_Tiberias,21
+19-02-18_Zefat,13
+20-02-18_Afula,22
+20-02-18_Ashdod,18
+20-02-18_Beer Sheva,21
+20-02-18_Bet Shean,23
+20-02-18_Elat,25
+20-02-18_En Gedi,23
+20-02-18_Haifa,19
+20-02-18_Jerusalem,18
+20-02-18_Lod,22
+20-02-18_Mizpe Ramon,17
+20-02-18_Nazareth,19
+20-02-18_Qazrin,20
+20-02-18_Tel Aviv,20
+20-02-18_Tiberias,24
+20-02-18_Zefat,15
+21-02-18_Afula,21
+21-02-18_Ashdod,19
+21-02-18_Beer Sheva,23
+21-02-18_Bet Shean,22
+21-02-18_Elat,25
+21-02-18_En Gedi,23
+21-02-18_Haifa,19
+21-02-18_Jerusalem,18
+21-02-18_Lod,22
+21-02-18_Mizpe Ramon,20
+21-02-18_Nazareth,19
+21-02-18_Qazrin,18
+21-02-18_Tel Aviv,20
+21-02-18_Tiberias,22
+21-02-18_Zefat,16
+22-02-18_Afula,21
+22-02-18_Ashdod,20
+22-02-18_Beer Sheva,23
+22-02-18_Bet Shean,21
+22-02-18_Elat,27
+22-02-18_En Gedi,23
+22-02-18_Haifa,19
+22-02-18_Jerusalem,18
+22-02-18_Lod,22
+22-02-18_Mizpe Ramon,19
+22-02-18_Nazareth,17
+22-02-18_Qazrin,17
+22-02-18_Tel Aviv,21
+22-02-18_Tiberias,22
+22-02-18_Zefat,12
+23-02-18_Afula,19
+23-02-18_Ashdod,19
+23-02-18_Beer Sheva,22
+23-02-18_Bet Shean,20
+23-02-18_Elat,25
+23-02-18_En Gedi,24
+23-02-18_Haifa,18
+23-02-18_Jerusalem,15
+23-02-18_Lod,21
+23-02-18_Mizpe Ramon,17
+23-02-18_Nazareth,17
+23-02-18_Qazrin,17
+23-02-18_Tel Aviv,20
+23-02-18_Tiberias,21
+23-02-18_Zefat,13
+24-02-18_Afula,20
+24-02-18_Ashdod,19
+24-02-18_Beer Sheva,20
+24-02-18_Bet Shean,23
+24-02-18_Elat,21
+24-02-18_En Gedi,24
+24-02-18_Haifa,18
+24-02-18_Jerusalem,16
+24-02-18_Lod,20
+24-02-18_Mizpe Ramon,17
+24-02-18_Nazareth,18
+24-02-18_Qazrin,18
+24-02-18_Tel Aviv,19
+24-02-18_Tiberias,23
+24-02-18_Zefat,15
+25-02-18_Afula,23
+25-02-18_Ashdod,21
+25-02-18_Beer Sheva,24
+25-02-18_Bet Shean,23
+25-02-18_Elat,27
+25-02-18_En Gedi,30
+25-02-18_Haifa,20
+25-02-18_Jerusalem,18
+25-02-18_Lod,24
+25-02-18_Mizpe Ramon,21
+25-02-18_Nazareth,19
+25-02-18_Qazrin,18
+25-02-18_Tel Aviv,23
+25-02-18_Tiberias,22
+25-02-18_Zefat,15
+26-02-18_Afula,19
+26-02-18_Ashdod,21
+26-02-18_Beer Sheva,22
+26-02-18_Bet Shean,21
+26-02-18_Elat,27
+26-02-18_En Gedi,24
+26-02-18_Haifa,19
+26-02-18_Jerusalem,16
+26-02-18_Lod,23
+26-02-18_Mizpe Ramon,19
+26-02-18_Nazareth,15
+26-02-18_Qazrin,16
+26-02-18_Tel Aviv,22
+26-02-18_Tiberias,21
+26-02-18_Zefat,11
+27-02-18_Afula,20
+27-02-18_Ashdod,19
+27-02-18_Beer Sheva,19
+27-02-18_Bet Shean,20
+27-02-18_Elat,25
+27-02-18_En Gedi,24
+27-02-18_Haifa,17
+27-02-18_Jerusalem,15
+27-02-18_Lod,20
+27-02-18_Mizpe Ramon,17
+27-02-18_Nazareth,17
+27-02-18_Qazrin,16
+27-02-18_Tel Aviv,19
+27-02-18_Tiberias,19
+27-02-18_Zefat,14
+28-02-18_Afula,21
+28-02-18_Ashdod,19
+28-02-18_Beer Sheva,22
+28-02-18_Bet Shean,23
+28-02-18_Elat,26
+28-02-18_En Gedi,25
+28-02-18_Haifa,20
+28-02-18_Jerusalem,17
+28-02-18_Lod,22
+28-02-18_Mizpe Ramon,18
+28-02-18_Nazareth,19
+28-02-18_Qazrin,19
+28-02-18_Tel Aviv,21
+28-02-18_Tiberias,22
+28-02-18_Zefat,14
+01-03-18_Afula,23
+01-03-18_Ashdod,19
+01-03-18_Beer Sheva,23
+01-03-18_Bet Shean,24
+01-03-18_Elat,28
+01-03-18_En Gedi,24
+01-03-18_Haifa,20
+01-03-18_Jerusalem,20
+01-03-18_Lod,23
+01-03-18_Mizpe Ramon,21
+01-03-18_Nazareth,20
+01-03-18_Qazrin,20
+01-03-18_Tel Aviv,20
+01-03-18_Tiberias,23
+01-03-18_Zefat,17
+02-03-18_Afula,24
+02-03-18_Ashdod,19
+02-03-18_Beer Sheva,24
+02-03-18_Bet Shean,25
+02-03-18_Elat,30
+02-03-18_En Gedi,25
+02-03-18_Haifa,20
+02-03-18_Jerusalem,21
+02-03-18_Lod,23
+02-03-18_Mizpe Ramon,22
+02-03-18_Nazareth,21
+02-03-18_Qazrin,21
+02-03-18_Tel Aviv,21
+02-03-18_Tiberias,24
+02-03-18_Zefat,18
+03-03-18_Afula,25
+03-03-18_Ashdod,21
+03-03-18_Beer Sheva,28
+03-03-18_Bet Shean,27
+03-03-18_Elat,29
+03-03-18_En Gedi,27
+03-03-18_Haifa,25
+03-03-18_Jerusalem,24
+03-03-18_Lod,27
+03-03-18_Mizpe Ramon,25
+03-03-18_Nazareth,24
+03-03-18_Qazrin,24
+03-03-18_Tel Aviv,26
+03-03-18_Tiberias,26
+03-03-18_Zefat,20
+04-03-18_Afula,24
+04-03-18_Ashdod,26
+04-03-18_Beer Sheva,30
+04-03-18_Bet Shean,27
+04-03-18_Elat,31
+04-03-18_En Gedi,27
+04-03-18_Haifa,27
+04-03-18_Jerusalem,25
+04-03-18_Lod,30
+04-03-18_Mizpe Ramon,27
+04-03-18_Nazareth,24
+04-03-18_Qazrin,24
+04-03-18_Tel Aviv,29
+04-03-18_Tiberias,25
+04-03-18_Zefat,22
+05-03-18_Afula,27
+05-03-18_Ashdod,21
+05-03-18_Beer Sheva,27
+05-03-18_Bet Shean,29
+05-03-18_Elat,29
+05-03-18_En Gedi,29
+05-03-18_Haifa,25
+05-03-18_Jerusalem,23
+05-03-18_Lod,27
+05-03-18_Mizpe Ramon,27
+05-03-18_Nazareth,26
+05-03-18_Qazrin,24
+05-03-18_Tel Aviv,27
+05-03-18_Tiberias,27
+05-03-18_Zefat,22
+06-03-18_Afula,26
+06-03-18_Ashdod,24
+06-03-18_Beer Sheva,29
+06-03-18_Bet Shean,29
+06-03-18_Elat,30
+06-03-18_En Gedi,33
+06-03-18_Haifa,25
+06-03-18_Jerusalem,23
+06-03-18_Lod,27
+06-03-18_Mizpe Ramon,28
+06-03-18_Nazareth,24
+06-03-18_Qazrin,23
+06-03-18_Tel Aviv,26
+06-03-18_Tiberias,27
+06-03-18_Zefat,21
+07-03-18_Afula,25
+07-03-18_Ashdod,20
+07-03-18_Beer Sheva,28
+07-03-18_Bet Shean,26
+07-03-18_Elat,34
+07-03-18_En Gedi,27
+07-03-18_Haifa,22
+07-03-18_Jerusalem,24
+07-03-18_Lod,25
+07-03-18_Mizpe Ramon,27
+07-03-18_Nazareth,22
+07-03-18_Qazrin,21
+07-03-18_Tel Aviv,21
+07-03-18_Tiberias,25
+07-03-18_Zefat,18
+08-03-18_Afula,28
+08-03-18_Ashdod,29
+08-03-18_Beer Sheva,34
+08-03-18_Bet Shean,30
+08-03-18_Elat,33
+08-03-18_En Gedi,34
+08-03-18_Haifa,29
+08-03-18_Jerusalem,28
+08-03-18_Lod,32
+08-03-18_Mizpe Ramon,31
+08-03-18_Nazareth,26
+08-03-18_Qazrin,25
+08-03-18_Tel Aviv,31
+08-03-18_Tiberias,27
+08-03-18_Zefat,21
+09-03-18_Afula,21
+09-03-18_Ashdod,20
+09-03-18_Beer Sheva,21
+09-03-18_Bet Shean,23
+09-03-18_Elat,31
+09-03-18_En Gedi,28
+09-03-18_Haifa,18
+09-03-18_Jerusalem,15
+09-03-18_Lod,20
+09-03-18_Mizpe Ramon,21
+09-03-18_Nazareth,17
+09-03-18_Qazrin,18
+09-03-18_Tel Aviv,19
+09-03-18_Tiberias,24
+09-03-18_Zefat,14
+10-03-18_Afula,21
+10-03-18_Ashdod,19
+10-03-18_Beer Sheva,21
+10-03-18_Bet Shean,23
+10-03-18_Elat,27
+10-03-18_En Gedi,25
+10-03-18_Haifa,18
+10-03-18_Jerusalem,16
+10-03-18_Lod,20
+10-03-18_Mizpe Ramon,18
+10-03-18_Nazareth,18
+10-03-18_Qazrin,18
+10-03-18_Tel Aviv,19
+10-03-18_Tiberias,22
+10-03-18_Zefat,13
+11-03-18_Afula,22
+11-03-18_Ashdod,19
+11-03-18_Beer Sheva,21
+11-03-18_Bet Shean,23
+11-03-18_Elat,26
+11-03-18_En Gedi,25
+11-03-18_Haifa,18
+11-03-18_Jerusalem,16
+11-03-18_Lod,20
+11-03-18_Mizpe Ramon,17
+11-03-18_Nazareth,18
+11-03-18_Qazrin,19
+11-03-18_Tel Aviv,20
+11-03-18_Tiberias,24
+11-03-18_Zefat,15
+12-03-18_Afula,23
+12-03-18_Ashdod,19
+12-03-18_Beer Sheva,23
+12-03-18_Bet Shean,24
+12-03-18_Elat,28
+12-03-18_En Gedi,26
+12-03-18_Haifa,18
+12-03-18_Jerusalem,20
+12-03-18_Lod,22
+12-03-18_Mizpe Ramon,21
+12-03-18_Nazareth,19
+12-03-18_Qazrin,20
+12-03-18_Tel Aviv,20
+12-03-18_Tiberias,24
+12-03-18_Zefat,15
+13-03-18_Afula,23
+13-03-18_Ashdod,19
+13-03-18_Beer Sheva,25
+13-03-18_Bet Shean,25
+13-03-18_Elat,30
+13-03-18_En Gedi,26
+13-03-18_Haifa,19
+13-03-18_Jerusalem,21
+13-03-18_Lod,22
+13-03-18_Mizpe Ramon,23
+13-03-18_Nazareth,19
+13-03-18_Qazrin,20
+13-03-18_Tel Aviv,20
+13-03-18_Tiberias,23
+13-03-18_Zefat,17
+14-03-18_Afula,23
+14-03-18_Ashdod,22
+14-03-18_Beer Sheva,26
+14-03-18_Bet Shean,28
+14-03-18_Elat,33
+14-03-18_En Gedi,27
+14-03-18_Haifa,21
+14-03-18_Jerusalem,22
+14-03-18_Lod,24
+14-03-18_Mizpe Ramon,25
+14-03-18_Nazareth,21
+14-03-18_Qazrin,22
+14-03-18_Tel Aviv,23
+14-03-18_Tiberias,26
+14-03-18_Zefat,19
+15-03-18_Afula,22
+15-03-18_Ashdod,19
+15-03-18_Beer Sheva,22
+15-03-18_Bet Shean,24
+15-03-18_Elat,30
+15-03-18_En Gedi,25
+15-03-18_Haifa,18
+15-03-18_Jerusalem,19
+15-03-18_Lod,21
+15-03-18_Mizpe Ramon,23
+15-03-18_Nazareth,18
+15-03-18_Qazrin,19
+15-03-18_Tel Aviv,20
+15-03-18_Tiberias,23
+15-03-18_Zefat,17
+16-03-18_Afula,22
+16-03-18_Ashdod,20
+16-03-18_Beer Sheva,22
+16-03-18_Bet Shean,24
+16-03-18_Elat,28
+16-03-18_En Gedi,26
+16-03-18_Haifa,18
+16-03-18_Jerusalem,16
+16-03-18_Lod,21
+16-03-18_Mizpe Ramon,20
+16-03-18_Nazareth,18
+16-03-18_Qazrin,18
+16-03-18_Tel Aviv,20
+16-03-18_Tiberias,24
+16-03-18_Zefat,14
+17-03-18_Afula,22
+17-03-18_Ashdod,19
+17-03-18_Beer Sheva,24
+17-03-18_Bet Shean,25
+17-03-18_Elat,28
+17-03-18_En Gedi,26
+17-03-18_Haifa,18
+17-03-18_Jerusalem,19
+17-03-18_Lod,21
+17-03-18_Mizpe Ramon,20
+17-03-18_Nazareth,18
+17-03-18_Qazrin,19
+17-03-18_Tel Aviv,19
+17-03-18_Tiberias,23
+17-03-18_Zefat,16
+18-03-18_Afula,26
+18-03-18_Ashdod,22
+18-03-18_Beer Sheva,31
+18-03-18_Bet Shean,30
+18-03-18_Elat,32
+18-03-18_En Gedi,31
+18-03-18_Haifa,27
+18-03-18_Jerusalem,25
+18-03-18_Lod,32
+18-03-18_Mizpe Ramon,26
+18-03-18_Nazareth,26
+18-03-18_Qazrin,26
+18-03-18_Tel Aviv,28
+18-03-18_Tiberias,30
+18-03-18_Zefat,20
+19-03-18_Afula,28
+19-03-18_Ashdod,27
+19-03-18_Beer Sheva,35
+19-03-18_Bet Shean,32
+19-03-18_Elat,32
+19-03-18_En Gedi,30
+19-03-18_Haifa,30
+19-03-18_Jerusalem,28
+19-03-18_Lod,36
+19-03-18_Mizpe Ramon,30
+19-03-18_Nazareth,28
+19-03-18_Qazrin,30
+19-03-18_Tel Aviv,34
+19-03-18_Tiberias,30
+19-03-18_Zefat,24
+20-03-18_Afula,25
+20-03-18_Ashdod,21
+20-03-18_Beer Sheva,28
+20-03-18_Bet Shean,29
+20-03-18_Elat,34
+20-03-18_En Gedi,30
+20-03-18_Haifa,20
+20-03-18_Jerusalem,23
+20-03-18_Lod,25
+20-03-18_Mizpe Ramon,26
+20-03-18_Nazareth,21
+20-03-18_Qazrin,23
+20-03-18_Tel Aviv,23
+20-03-18_Tiberias,28
+20-03-18_Zefat,21
+21-03-18_Afula,27
+21-03-18_Ashdod,21
+21-03-18_Beer Sheva,30
+21-03-18_Bet Shean,30
+21-03-18_Elat,33
+21-03-18_En Gedi,32
+21-03-18_Haifa,21
+21-03-18_Jerusalem,24
+21-03-18_Lod,27
+21-03-18_Mizpe Ramon,25
+21-03-18_Nazareth,24
+21-03-18_Qazrin,25
+21-03-18_Tel Aviv,24
+21-03-18_Tiberias,29
+21-03-18_Zefat,22
+22-03-18_Afula,29
+22-03-18_Ashdod,25
+22-03-18_Beer Sheva,35
+22-03-18_Bet Shean,32
+22-03-18_Elat,36
+22-03-18_En Gedi,33
+22-03-18_Haifa,29
+22-03-18_Jerusalem,28
+22-03-18_Lod,35
+22-03-18_Mizpe Ramon,29
+22-03-18_Nazareth,28
+22-03-18_Qazrin,29
+22-03-18_Tel Aviv,35
+22-03-18_Tiberias,33
+22-03-18_Zefat,23
+23-03-18_Afula,30
+23-03-18_Ashdod,30
+23-03-18_Beer Sheva,37
+23-03-18_Bet Shean,34
+23-03-18_Elat,34
+23-03-18_En Gedi,31
+23-03-18_Haifa,31
+23-03-18_Jerusalem,31
+23-03-18_Lod,37
+23-03-18_Mizpe Ramon,34
+23-03-18_Nazareth,29
+23-03-18_Qazrin,31
+23-03-18_Tel Aviv,36
+23-03-18_Tiberias,34
+23-03-18_Zefat,26
+24-03-18_Afula,22
+24-03-18_Ashdod,20
+24-03-18_Beer Sheva,21
+24-03-18_Bet Shean,23
+24-03-18_Elat,30
+24-03-18_En Gedi,28
+24-03-18_Haifa,21
+24-03-18_Jerusalem,15
+24-03-18_Lod,21
+24-03-18_Mizpe Ramon,18
+24-03-18_Nazareth,18
+24-03-18_Qazrin,20
+24-03-18_Tel Aviv,21
+24-03-18_Tiberias,25
+24-03-18_Zefat,15
+25-03-18_Afula,24
+25-03-18_Ashdod,20
+25-03-18_Beer Sheva,25
+25-03-18_Bet Shean,25
+25-03-18_Elat,28
+25-03-18_En Gedi,26
+25-03-18_Haifa,19
+25-03-18_Jerusalem,20
+25-03-18_Lod,23
+25-03-18_Mizpe Ramon,20
+25-03-18_Nazareth,21
+25-03-18_Qazrin,21
+25-03-18_Tel Aviv,20
+25-03-18_Tiberias,24
+25-03-18_Zefat,17
+26-03-18_Afula,31
+26-03-18_Ashdod,22
+26-03-18_Beer Sheva,33
+26-03-18_Bet Shean,32
+26-03-18_Elat,33
+26-03-18_En Gedi,33
+26-03-18_Haifa,23
+26-03-18_Jerusalem,28
+26-03-18_Lod,31
+26-03-18_Mizpe Ramon,27
+26-03-18_Nazareth,28
+26-03-18_Qazrin,29
+26-03-18_Tel Aviv,28
+26-03-18_Tiberias,33
+26-03-18_Zefat,22
+27-03-18_Afula,29
+27-03-18_Ashdod,21
+27-03-18_Beer Sheva,31
+27-03-18_Bet Shean,33
+27-03-18_Elat,32
+27-03-18_En Gedi,31
+27-03-18_Haifa,22
+27-03-18_Jerusalem,27
+27-03-18_Lod,26
+27-03-18_Mizpe Ramon,28
+27-03-18_Nazareth,24
+27-03-18_Qazrin,29
+27-03-18_Tel Aviv,23
+27-03-18_Tiberias,30
+27-03-18_Zefat,24
+28-03-18_Afula,28
+28-03-18_Ashdod,31
+28-03-18_Beer Sheva,34
+28-03-18_Bet Shean,28
+28-03-18_Elat,36
+28-03-18_En Gedi,33
+28-03-18_Haifa,22
+28-03-18_Jerusalem,27
+28-03-18_Lod,33
+28-03-18_Mizpe Ramon,28
+28-03-18_Nazareth,25
+28-03-18_Qazrin,26
+28-03-18_Tel Aviv,31
+28-03-18_Tiberias,30
+28-03-18_Zefat,21
+29-03-18_Afula,22
+29-03-18_Ashdod,20
+29-03-18_Beer Sheva,23
+29-03-18_Bet Shean,24
+29-03-18_Elat,30
+29-03-18_En Gedi,29
+29-03-18_Haifa,19
+29-03-18_Jerusalem,16
+29-03-18_Lod,21
+29-03-18_Mizpe Ramon,19
+29-03-18_Nazareth,19
+29-03-18_Qazrin,19
+29-03-18_Tel Aviv,20
+29-03-18_Tiberias,25
+29-03-18_Zefat,15
+30-03-18_Afula,20
+30-03-18_Ashdod,19
+30-03-18_Beer Sheva,21
+30-03-18_Bet Shean,21
+30-03-18_Elat,26
+30-03-18_En Gedi,26
+30-03-18_Haifa,17
+30-03-18_Jerusalem,12
+30-03-18_Lod,20
+30-03-18_Mizpe Ramon,18
+30-03-18_Nazareth,16
+30-03-18_Qazrin,15
+30-03-18_Tel Aviv,19
+30-03-18_Tiberias,21
+30-03-18_Zefat,11
+31-03-18_Afula,24
+31-03-18_Ashdod,20
+31-03-18_Beer Sheva,25
+31-03-18_Bet Shean,26
+31-03-18_Elat,29
+31-03-18_En Gedi,27
+31-03-18_Haifa,19
+31-03-18_Jerusalem,19
+31-03-18_Lod,22
+31-03-18_Mizpe Ramon,21
+31-03-18_Nazareth,20
+31-03-18_Qazrin,21
+31-03-18_Tel Aviv,20
+31-03-18_Tiberias,24
+31-03-18_Zefat,16
